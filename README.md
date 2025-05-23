@@ -38,7 +38,7 @@ GND          -> GND
 ESP32 -> Buttons
 ---------------
 G13 (Pin 13) <- RECORD/STOP (pulled up, GND when pressed)
-G12 (Pin 12) <- PLAY/PAUSE  (pullسed up, GND when pressed)
+G12 (Pin 12) <- PLAY/PAUSE  (pulled up, GND when pressed)
 G14 (Pin 15) <- NEXT        (pulled up, GND when pressed)
 
 ## Notes for ESP32-WROOM-32:
